@@ -1,0 +1,6 @@
+com\example\userbl\repositories\PersonaRepository.class
+com\example\userbl\UserblApplication.class
+com\example\userbl\controllers\PersonaController.class
+com\example\userbl\models\Persona.class
+com\example\userbl\services\PersonaService.class
+com\example\userbl\ServletInitializer.class
